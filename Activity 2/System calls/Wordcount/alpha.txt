@@ -1,0 +1,3 @@
+A debugger is a program that runs other programs, allowing the user to exercise control over these programs, and to examine variables when problems arise.
+
+GNU Debugger, which is also called gdb, is the most popular debugger for UNIX systems to debug C and C++ programs.
